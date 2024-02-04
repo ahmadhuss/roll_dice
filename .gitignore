@@ -1,3 +1,6 @@
+# Ignore developer specfic metadata file
+.metadata
+
 # Miscellaneous
 *.class
 *.log
